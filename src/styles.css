@@ -155,8 +155,7 @@ a:hover {
     justify-content: space-evenly;
 }
 
-.pricing-option,
-.pricing-option-premium {
+.pricing-option, .pricing-option-premium {
     text-align: left;
     background-color: whitesmoke;
     margin: 15px 10px;
@@ -174,8 +173,7 @@ a:hover {
     line-height: 30px;
 }
 
-#pricing-btn,
-#pricing-btn-premium {
+#pricing-btn, #pricing-btn-premium {
     padding: 8px 80px;
     display: block;
     margin: auto;
@@ -190,7 +188,6 @@ a:hover {
 
 #pricing-tag-span {
     font-size: 0.75rem;
-
 }
 
 #questions {
