@@ -1,0 +1,11 @@
+[33mcommit 13a9795e5e53d6c0d5d50716027b259efc2e2bd5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Japheth Ehijie Eromon <124076561+japhetheromon@users.noreply.github.com>
+Date:   Fri Aug 2 08:53:26 2024 +0000
+
+    Adding the HTML and CSS files
+
+[33mcommit d69372be46e7e435cbcbbacc8097f3528a57a97d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Japheth Ehijie Eromon <124076561+japhetheromon@users.noreply.github.com>
+Date:   Fri Aug 2 09:13:36 2024 +0100
+
+    Initial commit
